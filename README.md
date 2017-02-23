@@ -1,6 +1,6 @@
 # Data Analysis in Python Workshop
 ## REQUIRED TOOLS
-- **[Anacondas](https://www.python.org/download/releases/2.7/)** is our primary tool for this workshop. It bundles many of the [common packages](https://docs.continuum.io/anaconda/pkg-docs) we'll be using, including:
+- **[Anacondas](https://www.continuum.io/downloads)** is our primary tool for this workshop. It bundles many of the [common packages](https://docs.continuum.io/anaconda/pkg-docs) we'll be using, including:
   - *Python 2.7*: One language to rule them all...
   - *Ipython / Jupyter / Pandas*: Core tools for creating notebooks 
   - *Matplotlib*: The Grandaddy of all python plotting packages
